@@ -79,6 +79,9 @@ Aby wyprodukować 10 krzeseł, można uruchomić:
 Aby harmonogramować produkcję 5 stołów na maszynie 1, można uruchomić:
 
 ?- schedule_production(table, 5, machine1).
+# Autorzy
+- Michał Markuszewski 
+- Piotr Kowalczyk 
 
 
 
