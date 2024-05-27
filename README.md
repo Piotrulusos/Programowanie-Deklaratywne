@@ -2,12 +2,12 @@
 Ten oparty na Prologu System Zarządzania Produkcją zapewnia interfejs użytkownika do zarządzania zasobami, stanem magazynu i harmonogramami produkcji. System umożliwia użytkownikom wyświetlanie aktualnych zasobów i stanu magazynu, dodawanie zasobów, produkcję produktów, harmonogramowanie produkcji na określonych maszynach oraz dodawanie nowych produktów.
 
 ## Funkcje
-Wyświetlanie stanu magazynu: Wyświetla bieżący stan magazynu produktów.
-Wyświetlanie zasobów: Wyświetla dostępne zasoby i ich ilości.
-Dodawanie zasobu: Dodaje nowy zasób lub zwiększa ilość istniejącego zasobu.
-Produkcja produktu: Produkuje określoną ilość produktu, zużywając niezbędne zasoby.
-Harmonogramowanie produkcji: Harmonogramuje produkcję produktu na określonej maszynie.
-Dodawanie produktu: Dodaje nowe produkty do systemu z określonymi wymaganiami dotyczącymi zasobów i czasem produkcji.
+- Wyświetlanie stanu magazynu: Wyświetla bieżący stan magazynu produktów.
+- Wyświetlanie zasobów: Wyświetla dostępne zasoby i ich ilości.
+- Dodawanie zasobu: Dodaje nowy zasób lub zwiększa ilość istniejącego zasobu.
+- Produkcja produktu: Produkuje określoną ilość produktu, zużywając niezbędne zasoby.
+- Harmonogramowanie produkcji: Harmonogramuje produkcję produktu na określonej maszynie.
+- Dodawanie produktu: Dodaje nowe produkty do systemu z określonymi wymaganiami dotyczącymi zasobów i czasem produkcji.
 
 ## Struktura plików
 - main.pl: Główny plik Prolog zawierający logikę systemu zarządzania produkcją.
