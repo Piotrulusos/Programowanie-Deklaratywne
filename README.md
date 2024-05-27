@@ -18,11 +18,11 @@ Ten oparty na Prologu System Zarządzania Produkcją zapewnia interfejs użytkow
 Upewnij się, że masz zainstalowany SWI-Prolog na swoim komputerze.
 Otwórz SWI-Prolog i skompiluj plik main.pl używając następującego polecenia:
 
-?- [main].
+`?- [main].`
 
 Uruchom interfejs użytkownika, wykonując predykat start_interface/0:
 
-?- start_interface.
+`?- start_interface.`
 
 Pojawi się okno dialogowe, zapewniające przyciski do różnych operacji.
 
@@ -70,15 +70,15 @@ Pojawi się okno dialogowe, zapewniające przyciski do różnych operacji.
 
 Aby dodać 100 jednostek drewna, można uruchomić następujące polecenie w konsoli Prolog:
 
-?- add_resource(wood, 100).
+`?- add_resource(wood, 100).`
 
 Aby wyprodukować 10 krzeseł, można uruchomić:
 
-?- produce(chair, 10).
+`?- produce(chair, 10).`
 
 Aby harmonogramować produkcję 5 stołów na maszynie 1, można uruchomić:
 
-?- schedule_production(table, 5, machine1).
+`?- schedule_production(table, 5, machine1).`
 # Autorzy
 - Michał Markuszewski 
 - Piotr Kowalczyk 
